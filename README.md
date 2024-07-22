@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://live-docs-zeta.vercel.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Live Docs">
+      <img src="https://raw.githubusercontent.com/sukumarsatpathy/LiveDocs/main/LiveDocs.jpg" alt="Live Docs">
     </a>
   <br />
 
