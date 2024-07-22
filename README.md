@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://sukumarsatpathy.in" target="_blank">
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
+    <a href="https://live-docs-zeta.vercel.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Live Docs">
     </a>
   <br />
 
@@ -14,7 +14,7 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     This project was designed and created with love by <b>Sukumar Satapathy</b>.
+     This project was designed and created with love by <b><a href="https://sukumarsatapathy.in">Sukumar Satapathy</a></b>.
     </div>
 </div>
 
@@ -92,7 +92,7 @@ NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
+Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the <a href="https://clerk.com">Clerk</a> and <a href="https://liveblocks.io/">Liveblocks</a> website.
 
 **Running the Project**
 
